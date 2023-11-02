@@ -4,7 +4,7 @@
 
 This project was developed as a part of the Jonas Schmedtmann's "The Complete JavaScript Course 2023: From Zero to Expert!" course. It's a web application that allows users to discover and manage recipes. You can search for recipes, view details, and even add your own recipes.
 
-![Forkify Screenshot](/src/img/forkify.png)
+![Forkify Screenshot](/src/img/screenshot.png)
 
 ## Features
 

@@ -42,3 +42,4 @@ This project was developed as a part of the Jonas Schmedtmann's "The Complete Ja
 ## Author
 
 - **Tedo Janelidze**
+- Website: [https://forkify-tedo.netlify.app/](https://forkify-tedo.netlify.app/)
